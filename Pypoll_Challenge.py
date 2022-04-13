@@ -16,12 +16,17 @@ with open(file_to_save, "w") as txt_file:
 
 txt_file.close()
 
+
+total_votes = 0
+
 with open(file_to_load, "r") as election_data:
     file_reader = csv.reader(election_data)
     headers = next(file_reader)
-    print(headers)
+    # print(headers)
     for row in file_reader:
-        print(row)
+        total_votes += 1
+
+print(total_votes)
 
 
 
