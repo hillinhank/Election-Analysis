@@ -13,4 +13,9 @@ o	Which candidate won the election, what was their vote count, and what was thei
 •	 
 # Summary
 This script could be reused in future elections, or even for other smaller elections such as: Class President, Prom Queen, or even scaled for larger state elections
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/101481759/163689872-808a6d9e-32ac-4c81-9a9c-79dc1f9fbc01.png)
