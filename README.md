@@ -14,7 +14,8 @@ For this project we took a large csv file that contained the election data for s
 
 
  -Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-•	 
+ ![image](https://user-images.githubusercontent.com/101481759/163690008-86f3d119-4f6c-4746-a2cf-b00fd695cff5.png)
+	 
 # Summary
 This script could be reused in future elections, or even for other smaller elections such as: Class President, Prom Queen, or even scaled for larger state elections
 
