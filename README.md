@@ -23,7 +23,7 @@ For this project we took a large csv file that contained the election data for s
 	 
 # Summary
 This script could be reused in future elections, or even for other smaller elections such as: Class President, Prom Queen, or even scaled for larger state elections
-.
+..
 
 
 
